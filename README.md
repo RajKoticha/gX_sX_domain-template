@@ -35,26 +35,4 @@ flowchart TD
 ```
 
 
-gX_sX_domain/
-├── README.md
-├── base_paper/
-│   └── base_paper_title.pdf
-├── code/
-│   ├── src/
-│   ├── data/
-│   ├── experiments/
-│   └── requirements.txt
-├── Milestone-1/
-│   ├── Scribe/
-│   │   └── scribe_M1.pdf
-│   ├── Video/
-│   │   └── video_M1.mp4
-│   └── Concept-Map/
-│       └── concept-map_M1.png
-└── Milestone-2/
-    ├── Scribe/
-    │   └── scribe_M2.pdf
-    ├── Video/
-    │   └── video_M2.mp4
-    └── Concept-Map/
-        └── concept-map_M2.png
+
