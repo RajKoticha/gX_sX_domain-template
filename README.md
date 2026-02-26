@@ -1,0 +1,1 @@
+# gX_sX_domain-template
